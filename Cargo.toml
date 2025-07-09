@@ -1,5 +1,8 @@
 [package]
 name = "pipes-rs"
+authors = ["dnorhoj <daniel@dnorhoj.me>"]
+description = "A rust rewrite of pipes.sh"
+license-file = "LICENSE"
 version = "0.1.0"
 edition = "2024"
 
