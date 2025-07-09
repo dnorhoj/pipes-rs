@@ -3,8 +3,9 @@ name = "pipes-rs"
 authors = ["dnorhoj <daniel@dnorhoj.me>"]
 description = "A rust rewrite of pipes.sh"
 license-file = "LICENSE"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
+repository = "https://github.com/dnorhoj/pipes-rs"
 
 [dependencies]
 anyhow = "1.0.98"
